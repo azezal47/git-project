@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T02:03:48 IST" name="Default suite" finished-at="2024-06-19T02:04:02 IST" duration-ms="13677">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T02:03:48 IST" name="Default test" finished-at="2024-06-19T02:04:02 IST" duration-ms="13677">
+      <class name="postforjob.PostMuralJob">
+        <test-method is-config="true" signature="init()[pri:0, instance:postforjob.PostMuralJob@7dc3712]" started-at="2024-06-19T02:03:49 IST" name="init" finished-at="2024-06-19T02:03:53 IST" duration-ms="4081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="postjobTest()[pri:0, instance:postforjob.PostMuralJob@7dc3712]" started-at="2024-06-19T02:03:53 IST" name="postjobTest" finished-at="2024-06-19T02:04:02 IST" duration-ms="9210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjobTest -->
+        <test-method is-config="true" signature="finish()[pri:0, instance:postforjob.PostMuralJob@7dc3712]" started-at="2024-06-19T02:04:02 IST" name="finish" finished-at="2024-06-19T02:04:02 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- postforjob.PostMuralJob -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
